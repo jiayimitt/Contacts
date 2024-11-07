@@ -1,4 +1,4 @@
-# Contact Management Application
+# MyContact 
 
 A simple contact management application that allows users to add, view, and delete contacts. This project validates the input for each contact (name, city, and email) and prevents duplicate contacts from being added.
 
