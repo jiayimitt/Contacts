@@ -14,11 +14,7 @@ A simple contact management application that allows users to add, view, and dele
 - **Delete Contacts**: Contacts can be deleted by clicking on their respective contact cards.
 - **Contact Count**: The number of saved contacts is displayed at the top of the contact list.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/contact-management.git
 
 
 
